@@ -1,6 +1,5 @@
 # bank-marketing-prediction
-"This repo is to show how to build an ML model and to describe some important preprocessing considerations.\n"
-"With the help of scikit-learn library it's really easy to run some ML models on your dataset.\n"
+This repo is to show how to build an ML model and to describe some important preprocessing considerations.  With the help of scikit-learn library it's really easy to run some ML models on your dataset.
 
 ## Datasource:
 UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing
